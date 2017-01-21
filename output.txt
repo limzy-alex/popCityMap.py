@@ -1,0 +1,936 @@
+cityname:                     latitude:      longitude:     population:    dot size:      dot color:     
+bloomington,il                88.93          40.48                         4              red            
+ephrata,wa                    119.52         47.32                         4              red            
+del rio,tx                    100.92         29.37                         4              green          
+lemmon,sd                     102.17         45.93                         4              blue           
+ponca city,ok                 97.1           36.73                         4              yellow         
+w beach,fl                    80.12          26.68                         4              blue           
+fergus falls,mn               96.07          46.3                          4              red            
+elmira,ny                     76.9           42.17                         4              blue           
+pendleton,or                  118.85         45.68                         4              blue           
+davis-m afb,az                110.88         32.17                         4              yellow         
+farmington,nm                 108.23         36.75                         4              red            
+eglin afb,fl                  86.53          30.48                         4              blue           
+reese afb,tx                  102.05         33.6                          4              green          
+provo,ut                      111.72         40.22          119775         6              blue           
+brownwood,tx                  98.96          31.79                         4              green          
+jordan,mt                     106.93         47.33                         4              yellow         
+north bend,or                 124.25         43.42                         4              blue           
+bristol,tn                    82.4           36.48                         4              yellow         
+norwood,ma                    71.18          42.18                         4              red            
+clarksville,tn                87.42          36.62          124565         6              yellow         
+grand jct,co                  108.53         39.12                         4              green          
+colville,wa                   118.47         48.88                         4              red            
+atlantic cty,nj               74.57          39.45                         4              yellow         
+chicago/meigs,il              87.62          41.87                         4              red            
+dansville,ny                  78.2           42.97                         4              blue           
+rapid city,sd                 103.07         44.05                         4              blue           
+helena,mt                     112.0          46.6                          4              yellow         
+richards-geb,mo               94.55          38.85                         4              blue           
+deer valley,az                112.08         33.68                         4              yellow         
+homestead,fl                  80.38          25.48                         4              blue           
+monroe,la                     92.05          32.52                         4              yellow         
+ely/yelland,nv                114.85         39.28                         4              red            
+thermal,ca                    116.17         33.63                         4              green          
+olympia,wa                    122.9          46.97                         4              red            
+lubbock,tx                    101.82         33.65          225859         7              green          
+santa barbara,ca              119.83         34.43                         4              green          
+altoona,pa                    78.32          40.3                          4              green          
+san diego,ca                  116.97         32.82          1306300        10             green          
+sherman-deni,tx               96.67          33.72                         4              green          
+wilmington,nc                 77.92          34.27          101350         6              blue           
+appleton,wi                   88.52          44.25                         4              yellow         
+billings,mt                   108.53         45.8           105845         6              yellow         
+south brazos,tx               95.87          28.03                         4              green          
+corvallis,or                  123.28         44.5                          4              blue           
+monida,mt                     112.32         44.57                         4              yellow         
+louisville,ky                 85.73          38.18          566503         8              green          
+sacramento,ca                 121.6          38.7           466676         8              green          
+new river,nc                  77.43          34.7                          4              blue           
+moody afb,ga                  83.2           30.97                         4              green          
+gila bend,az                  113.17         33.55                         4              yellow         
+hanford,wa                    119.6          46.57                         4              red            
+corpus chrst,tx               97.28          27.7                          4              green          
+richmond,va                   77.33          37.5           204451         7              red            
+tooele,ut                     112.2          40.17                         4              blue           
+little rock,ar                92.25          34.83          191933         6              red            
+tinker afb,ok                 97.38          35.42                         4              yellow         
+norton afb,ca                 117.23         34.1                          4              green          
+cuba awrs,nm                  106.95         36.02                         4              red            
+fairfield,nj                  74.28          40.87                         4              yellow         
+baton rouge,la                91.15          30.53          225388         7              yellow         
+show low,az                   110.0          34.27                         4              yellow         
+salinas,ca                    121.6          36.67          144278         6              green          
+minneapolis,mn                93.22          44.88          385378         7              red            
+minot afb,nd                  101.35         48.42                         4              green          
+athens,ga                     83.32          33.95          114983         6              green          
+la crosse,wi                  91.25          43.87                         4              yellow         
+seymour-john,nc               77.97          35.33                         4              blue           
+huntington,wv                 82.55          38.37                         4              yellow         
+fort bragg,nc                 78.93          35.13                         4              blue           
+devil's lake,nd               98.87          48.1                          4              green          
+ardmore,ok                    97.02          34.3                          4              yellow         
+marfa,tx                      104.02         30.37                         4              green          
+nasa shuttle,fl               80.68          28.62                         4              blue           
+boston,ma                     71.03          42.37          645169         8              red            
+mayport nas,fl                81.42          30.4                          4              blue           
+carlsbad,ca                   117.28         33.13                         4              green          
+newport,or                    124.05         44.63                         4              blue           
+laconia,nh                    71.43          43.57                         4              yellow         
+bartlesville,ok               96.0           36.75                         4              yellow         
+quincy,il                     91.2           39.93                         4              red            
+gulfport,ms                   89.07          30.4                          4              blue           
+huntsville,al                 86.77          34.65          179652         6              red            
+dallas/fw,tx                  97.03          32.9                          4              green          
+slidel,la                     89.82          30.35                         4              yellow         
+cleveland,oh                  81.87          41.42          431369         7              red            
+mcalester,ok                  95.78          34.88                         4              yellow         
+campo,ca                      116.47         32.62                         4              green          
+binghamton,ny                 75.98          42.22                         4              blue           
+santa ana,ca                  117.88         33.67          340338         7              green          
+baltimore,md                  76.42          39.33          637418         8              blue           
+cincinnati,oh                 84.43          39.1           333012         7              red            
+winnemucca,nv                 117.8          40.9                          4              red            
+hill afb,ut                   111.97         41.12                         4              blue           
+mount vernon,il               88.86          38.32                         4              red            
+san jose,ca                   121.92         37.37          964695         9              green          
+marysville,ca                 121.57         39.1                          4              green          
+waco-madison,tx               97.22          31.62                         4              green          
+santa monica,ca               118.45         34.02                         4              green          
+wright-pat afb,oh             84.05          39.83                         4              red            
+d.w. hooks,tx                 95.55          30.07                         4              green          
+bergstrom af,tx               97.68          30.2                          4              green          
+sun valley,id                 114.3          43.5                          4              green          
+patuxent,md                   76.4           38.28                         4              blue           
+panama city,fl                85.68          30.2                          4              blue           
+klamath fall,or               121.73         42.15                         4              blue           
+fort drum,ny                  75.73          44.05                         4              blue           
+evanston,wy                   111.0          41.33                         4              red            
+smyrna,tn                     86.5           36.0                          4              yellow         
+orlando,fl                    81.33          28.55          235860         7              blue           
+chico,ca                      121.85         39.78                         4              green          
+edwards afb,ca                117.88         34.9                          4              green          
+ft myers,fl                   81.87          26.65                         4              blue           
+riverside,ca                  117.45         33.95          297841         7              green          
+new iberia,la                 91.88          30.03                         4              yellow         
+providence,ri                 71.43          41.73          171909         6              blue           
+mojave,ca                     118.15         35.05                         4              green          
+ellington af,tx               95.17          29.62                         4              green          
+san francisco,ca              122.38         37.62          815358         9              green          
+newport news,va               76.5           37.13          193172         6              red            
+pine bluff,ar                 91.93          34.17                         4              red            
+denver,co                     104.87         39.75          610345         8              green          
+fort huachuc,az               110.35         31.6                          4              yellow         
+ft col/lovel,co               105.02         40.45                         4              green          
+mountn home,id                115.87         43.05                         4              green          
+mercury,nv                    116.02         36.62                         4              red            
+dalhart,tx                    102.55         36.02                         4              green          
+delta,ut                      112.58         39.33                         4              blue           
+rhinelander,wi                89.45          45.63                         4              yellow         
+fullerton,ca                  117.97         33.87          132620         6              green          
+chatham,ma                    69.97          41.67                         4              red            
+austin,nv                     117.08         39.5                          4              red            
+wilmington,de                 75.6           39.67                         4              red            
+san antonio,tx                98.47          29.33          1373668        10             green          
+grangeville,id                116.13         45.92                         4              green          
+egmont key,fl                 82.77          27.6                          4              blue           
+randolph afb,tx               98.28          29.53                         4              green          
+yuma,az                       115.0          33.1                          4              yellow         
+s weymouth,ma                 70.93          42.15                         4              red            
+hobart,ok                     99.05          35.0                          4              yellow         
+paso robles,ca                120.63         35.67                         4              green          
+copper harb,mi                87.85          47.47                         4              green          
+troy,al                       86.02          31.87                         4              red            
+bemidji muni,mn               94.93          47.5                          4              red            
+athens/albany,oh              82.23          39.21                         4              red            
+hurlburt fld,fl               86.68          30.43                         4              blue           
+minot intl,nd                 101.28         48.27                         4              green          
+hanksville,ut                 110.72         38.37                         4              blue           
+atlanta/fltn,ga               84.52          33.78                         4              green          
+grissom afb,in                86.15          40.65                         4              blue           
+temple,tx                     97.42          31.15                         4              green          
+roseglen,nd                   101.83         47.75                         4              green          
+charleston,wv                 81.6           38.37                         4              yellow         
+sanford,fl                    81.25          28.78                         4              blue           
+trinidad,co                   104.33         37.25                         4              green          
+seattle,wa                    122.3          47.45          616627         8              red            
+tallahassee,fl                84.37          30.38          172574         6              blue           
+hays,ks                       99.27          38.85                         4              red            
+needles,ca                    114.62         34.77                         4              green          
+daytona bch,fl                81.05          29.18                         4              blue           
+vernal,ut                     109.52         40.45                         4              blue           
+bridgeport,ct                 73.13          41.17          137298         6              green          
+pequot lake,mn                94.32          46.6                          4              red            
+beaver falls,pa               80.33          40.75                         4              green          
+ft leonard,mo                 92.13          37.75                         4              blue           
+twin falls,id                 114.48         42.48                         4              green          
+muskogee,mo                   95.36          35.66                         4              blue           
+tulsa,ok                      95.9           36.2           389625         7              yellow         
+torrance,ca                   118.33         33.8           140317         6              green          
+malta,id                      113.37         42.3                          4              green          
+brookings,or                  124.47         42.08                         4              blue           
+staunton,va                   78.85          38.27                         4              red            
+high is,la                    93.75          28.22                         4              yellow         
+monticello,ny                 74.8           41.7                          4              blue           
+jackson,ms                    90.08          32.32          175021         6              blue           
+goodyear,az                   112.38         33.42                         4              yellow         
+lemoore nas,ca                119.95         36.33                         4              green          
+yuma mcas,az                  114.62         32.65                         4              yellow         
+grants,nm                     107.9          35.17                         4              red            
+iron mtn,mi                   88.12          45.82                         4              green          
+bowling gren,ky               86.43          36.97                         4              green          
+seul choix,mi                 85.92          45.92                         4              green          
+millville,nj                  75.07          39.37                         4              yellow         
+park rapids,mn                95.07          46.9                          4              red            
+white sands,nm                106.4          32.63                         4              red            
+paris/cox,tx                  95.45          33.63                         4              green          
+dallas/redbr,tx               96.87          32.68                         4              green          
+glens falls,ny                73.62          43.35                         4              blue           
+leadville,co                  106.3          39.25                         4              green          
+grand forks,nd                97.4           47.97                         4              green          
+medford,or                    122.87         42.37                         4              blue           
+hickory,nc                    81.38          35.75                         4              blue           
+page,ok                       94.62          34.68                         4              yellow         
+big spring,tx                 101.45         32.3                          4              green          
+crestview,fl                  86.52          30.78                         4              blue           
+caliente,nv                   114.52         37.62                         4              red            
+volens,va                     78.98          36.95                         4              red            
+anniston,al                   85.85          33.58                         4              red            
+marshall arpt,mn              95.82          44.45                         4              red            
+jacksonville,nc               77.62          34.82                         4              blue           
+carlsbad,nm                   104.27         32.33                         4              red            
+fort wayne,in                 85.2           41.0           255890         7              blue           
+falls city,ne                 95.58          40.07                         4              yellow         
+columbus osu,oh               83.07          40.08                         4              red            
+soda springs,id               111.58         42.65                         4              green          
+aurora,il                     88.32          41.77          172950         6              red            
+worcester,ma                  71.87          42.27          182882         6              red            
+nth b,sc                      78.72          33.82                         4              red            
+mount wilson,ca               118.07         34.23                         4              green          
+el paso,tx                    106.4          31.8           620456         8              green          
+ontario intl,ca               117.62         34.05                         4              green          
+willow grove,pa               75.15          40.2                          4              green          
+mason city,ia                 93.33          43.15                         4              green          
+hunter aaf,ga                 81.15          32.02                         4              green          
+selfridge,mi                  82.83          42.62                         4              green          
+columbia,sc                   81.12          33.95          129333         6              red            
+springfield,il                89.67          39.85          118033         6              red            
+tucson,az                     110.93         32.12          543910         8              yellow         
+middletown,pa                 76.77          40.2                          4              green          
+dodge city,ks                 99.97          37.77                         4              red            
+cascade,or                    121.88         45.68                         4              blue           
+palm springs,ca               116.5          33.83                         4              green          
+mansfield,oh                  82.52          40.82                         4              red            
+abilene,tx                    99.68          32.42          117180         6              green          
+omaha/eppley,ne               95.9           41.3                          4              yellow         
+myrtle beach,sc               78.93          33.68                         4              red            
+lawrence,ma                   71.12          42.72                         4              red            
+gillette,wy                   105.53         44.35                         4              red            
+troutdale,or                  122.4          45.55                         4              blue           
+niagara fall,ny               78.95          43.1                          4              blue           
+rockford,il                   89.1           42.2           157280         6              red            
+site r,pa                     77.43          39.73                         4              green          
+vero beach,fl                 80.42          27.65                         4              blue           
+march afb,ca                  117.27         33.88                         4              green          
+stillwater,ok                 97.09          36.16                         4              yellow         
+deming,nm                     107.7          32.25                         4              red            
+hyannis,ma                    70.28          41.67                         4              red            
+claiborne r,la                92.95          31.22                         4              yellow         
+west plains,mo                91.9           36.88                         4              blue           
+block island,ri               71.58          41.17                         4              blue           
+raleigh-durh,nc               78.78          35.87                         4              blue           
+newport,vt                    72.33          45.55                         4              green          
+johnson cnty,ks               94.88          38.82                         4              red            
+cannon,nm                     103.32         34.38                         4              red            
+fort hunter,ca                121.32         36.0                          4              green          
+owyhee,nv                     116.17         42.58                         4              red            
+du page,il                    88.25          41.92                         4              red            
+mullen,ne                     101.05         42.05                         4              yellow         
+norfolk nas,va                76.28          36.93                         4              red            
+neenah,wi                     88.53          44.22                         4              yellow         
+houghton lake,mi              84.68          44.37                         4              green          
+valentine,ne                  100.55         42.87                         4              yellow         
+lamoni,ia                     93.93          40.62                         4              green          
+jefferson city,mo             92.17          38.6                          4              blue           
+paducah,ky                    88.77          37.07                         4              green          
+oklahoma cty,ok               97.65          35.53                         4              yellow         
+fraser,co                     105.5          39.57                         4              green          
+visalia,ca                    119.4          36.32          122111         6              green          
+russell,ks                    98.82          38.87                         4              red            
+bellingham,wa                 122.53         48.8                          4              red            
+ind rn,nv                     115.67         36.57                         4              red            
+grand canyon,az               112.15         35.95                         4              yellow         
+camp pendlet,ca               117.35         33.3                          4              green          
+newark intl,nj                74.17          40.7                          4              yellow         
+oakland,ca                    122.22         37.73          409189         7              green          
+rochester,ny                  77.67          43.12          207294         7              blue           
+wurtsmith,mi                  83.4           44.45                         4              green          
+topeka/forbe,ks               95.67          38.95                         4              red            
+harbor beach,mi               82.53          43.83                         4              green          
+chamberlain,sd                99.32          43.75                         4              blue           
+salem,il                      88.96          38.63                         4              red            
+ypsilanti,mi                  83.53          42.23                         4              green          
+pittsburgh,pa                 80.22          40.5           311647         7              green          
+selma,al                      86.99          32.34                         4              red            
+winston-salem,nc              80.23          36.13          229828         7              blue           
+jacksonville,fl               81.68          30.23          813518         9              blue           
+truth con,nm                  107.27         33.23                         4              red            
+washington/natl,dc            77.04          38.85                         4              green          
+griffiss afb,ny               75.4           43.23                         4              blue           
+siskiyou,ca                   122.47         41.78                         4              green          
+gary,in                       87.42          41.62                         4              blue           
+lansing,mi                    84.6           42.77          113802         6              green          
+knoxville,tn                  83.98          35.82          185100         6              yellow         
+oneonta,ny                    75.12          42.87                         4              blue           
+page,az                       111.45         36.93                         4              yellow         
+vance afb,ok                  97.92          36.33                         4              yellow         
+hastings,ne                   98.43          40.6                          4              yellow         
+oxnard,ca                     119.2          34.2           187535         6              green          
+springdale,ar                 94.13          36.18                         4              red            
+pillaro pt,ca                 122.83         37.83                         4              green          
+houston/hobby,tx              95.28          29.65                         4              green          
+holloman afb,nm               106.1          32.85                         4              red            
+johnstown,pa                  78.83          40.32                         4              green          
+augusta,me                    69.8           44.32                         4              blue           
+saint paul,mn                 93.05          44.93          281253         7              red            
+hagerstown,md                 77.72          39.7                          4              blue           
+el monte,ca                   118.03         34.08          121447         6              green          
+ft riley,ks                   96.77          39.05                         4              red            
+mobile aeros,al               88.07          30.63                         4              red            
+chesapeake,va                 76.2           37.5           222455         7              red            
+westover,ma                   72.53          42.2                          4              red            
+price/carbon,ut               110.75         39.62                         4              blue           
+livermore,ca                  121.82         37.7                          4              green          
+dekalb,il                     88.72          41.93                         4              red            
+dobbins afb,ga                84.87          34.53                         4              green          
+quillayute,wa                 124.55         47.95                         4              red            
+yellowstone,wy                110.42         44.55                         4              red            
+vandalia,il                   89.17          38.99                         4              red            
+eugene,or                     123.22         44.12          153272         6              blue           
+cedar rapids,ia               91.7           41.88          127764         6              green          
+hancock,mi                    88.5           47.17                         4              green          
+hill city,ks                  99.83          39.38                         4              red            
+farmingdale,ny                73.43          40.73                         4              blue           
+luke,az                       112.38         33.53                         4              yellow         
+ukiah,ca                      123.2          39.13                         4              green          
+marion,il                     89.0           37.75                         4              red            
+greenwood,ms                  90.08          33.5                          4              blue           
+new orleans,la                90.03          30.03          354850         7              yellow         
+baker,or                      117.82         44.83                         4              blue           
+havre,mt                      109.77         48.55                         4              yellow         
+chicago,il                    87.65          41.9           2851268        12             red            
+yakima,wa                     120.53         46.57                         4              red            
+coeur d'alene,id              116.82         47.77                         4              green          
+north platte,ne               100.68         41.13                         4              yellow         
+the dalles,or                 121.15         45.62                         4              blue           
+danbury,ct                    73.48          41.37                         4              green          
+durango,co                    107.75         37.15                         4              green          
+meridian nas,ms               88.57          32.55                         4              blue           
+thompson fal,mt               115.37         47.6                          4              yellow         
+rochester,mn                  92.5           43.92          103486         6              red            
+chase nas,tx                  97.67          28.37                         4              green          
+keesler afb,ms                88.92          30.42                         4              blue           
+rock springs,wy               109.07         41.6                          4              red            
+hawthorne,ca                  118.33         33.92                         4              green          
+charlotte,nc                  80.93          35.22          709441         8              blue           
+ruskin,fl                     82.6           27.97                         4              blue           
+keene,nh                      72.27          42.9                          4              yellow         
+miramar nas,ca                117.15         32.87                         4              green          
+williston,nd                  103.63         48.18                         4              green          
+fresno,ca                     119.72         36.77          479918         8              green          
+berlin,nh                     71.18          44.58                         4              yellow         
+lexington,ky                  85.0           38.05          296545         7              green          
+bar harbor,me                 68.37          44.45                         4              blue           
+syracuse,ny                   76.12          43.12          138560         6              blue           
+reading,pa                    75.97          40.38                         4              green          
+bishop,ca                     118.6          37.6                          4              green          
+blairsville,pa                79.09          40.27                         4              green          
+malmstrom,mt                  111.18         47.5                          4              yellow         
+astoria,or                    123.88         46.15                         4              blue           
+challis,id                    114.22         44.52                         4              green          
+mcchord afb,wa                122.48         47.15                         4              red            
+wichita flls,tx               98.5           33.98                         4              green          
+cecil,fl                      81.88          30.22                         4              blue           
+menominee,mi                  87.63          45.12                         4              green          
+toledo,oh                     83.8           41.6           316179         7              red            
+jackson,wy                    110.73         43.6                          4              red            
+presque isle,me               68.05          46.68                         4              blue           
+medicine ldg,ks               98.58          37.3                          4              red            
+nth philadel,pa               75.02          40.08                         4              green          
+kalamazoo,mi                  85.55          42.23                         4              green          
+parkersburg,wv                81.43          39.35                         4              yellow         
+brownsville,tx                97.43          25.9           176859         6              green          
+centreville,al                87.25          32.9                          4              red            
+stlouis/spirit,mo             90.63          38.65                         4              blue           
+hobbs,nm                      103.2          32.68                         4              red            
+redding,ca                    122.3          40.5                          4              green          
+plainview,tx                  101.71         34.17                         4              green          
+lewisburg,wv                  80.4           37.87                         4              yellow         
+robins afb,ga                 83.6           32.63                         4              green          
+groton,ct                     72.05          41.33                         4              green          
+scottsbluff,ne                103.6          41.87                         4              yellow         
+columbus,oh                   82.88          40.0           769332         8              red            
+titusville,fl                 80.8           28.52                         4              blue           
+taos,nm                       105.57         36.42                         4              red            
+rifle,co                      107.8          39.53                         4              green          
+morristown,nj                 74.42          40.8                          4              yellow         
+meridian/key,ms               88.75          32.33                         4              blue           
+el centro,ca                  115.68         32.82                         4              green          
+duluth,mn                     92.18          46.83                         4              red            
+santa maria,ca                120.45         34.9                          4              green          
+albert lea,mn                 93.37          43.68                         4              red            
+longview,tx                   94.72          32.38                         4              green          
+battle creek,mi               85.23          42.3                          4              green          
+montrose,co                   107.88         38.5                          4              green          
+blanding,ut                   109.78         38.03                         4              blue           
+greenville,ms                 90.98          33.48                         4              blue           
+eagle range,ut                113.07         41.05                         4              blue           
+mount shasta,ca               122.32         41.32                         4              green          
+rocky mt,nc                   77.88          35.85                         4              blue           
+columbus afb,ms               88.45          33.65                         4              blue           
+imperial bch,ca               117.12         32.57                         4              green          
+silver city,nm                108.17         32.63                         4              red            
+pt arena,ca                   124.22         39.58                         4              green          
+ottumwa,ia                    92.45          41.1                          4              green          
+stampede pas,wa               121.33         47.28                         4              red            
+golden trian,ms               88.58          33.45                         4              blue           
+taylorville,il                89.33          39.53                         4              red            
+goodland,ks                   101.7          39.37                         4              red            
+mackall aaf,nc                79.5           35.03                         4              blue           
+redmond,or                    121.15         44.27                         4              blue           
+st joseph,mo                  95.53          40.28                         4              blue           
+toledo,wa                     122.8          46.48                         4              red            
+lynchburg,va                  79.2           37.33                         4              red            
+morgantown,wv                 79.92          39.65                         4              yellow         
+broadus,mt                    105.67         45.67                         4              yellow         
+beverly,ma                    70.92          42.58                         4              red            
+o'neill,ne                    98.68          42.47                         4              yellow         
+emporia,ks                    96.2           38.33                         4              red            
+cape blanco,or                124.95         43.38                         4              blue           
+norfolk rgnl,va               76.2           36.9                          4              red            
+fort sill,ok                  98.4           34.65                         4              yellow         
+greenville,tx                 96.07          33.07                         4              green          
+watertown,sd                  97.15          44.92                         4              blue           
+shelton,wa                    123.15         47.25                         4              red            
+chattanooga,tn                85.2           35.03          171350         6              yellow         
+camden,ar                     92.4           33.52                         4              red            
+southern pin,nc               79.39          35.24                         4              blue           
+concordia,ks                  97.65          39.55                         4              red            
+alexandria,la                 92.3           31.38                         4              yellow         
+philipsburg,pa                78.13          41.47                         4              green          
+lake tahoe,ca                 120.0          38.9                          4              green          
+meacham,or                    118.4          45.5                          4              blue           
+marianna,fl                   85.18          30.84                         4              blue           
+springfield,mo                93.38          37.23          157630         6              blue           
+manistee,mi                   86.25          44.27                         4              green          
+albany,ga                     84.18          31.53                         4              green          
+miami intl,fl                 80.28          25.82                         4              blue           
+manhatten,ks                  96.67          39.15                         4              red            
+lake charles,la               93.22          30.12                         4              yellow         
+whiteman afb,mo               93.55          38.73                         4              blue           
+cedar city,ut                 113.1          37.7                          4              blue           
+victoria,tx                   96.92          28.85                         4              green          
+air a,co                      105.35         39.52                         4              green          
+s isl,la                      91.98          28.3                          4              yellow         
+harlingen,tx                  97.67          26.23                         4              green          
+superior val,ca               117.1          35.33                         4              green          
+key west,fl                   81.75          24.55                         4              blue           
+chicago/midway,il             87.75          41.78                         4              red            
+alton,il                      90.05          38.88                         4              red            
+sidney,mt                     104.18         47.72                         4              yellow         
+muscle shoal,al               87.62          34.75                         4              red            
+liberal,ks                    100.97         37.05                         4              red            
+santa rosa,ca                 122.82         38.52          157468         6              green          
+carbondale,il                 89.25          37.78                         4              red            
+sioux city,ia                 96.38          42.4                          4              green          
+mobile,al                     88.25          30.68          193205         6              red            
+point mugu,ca                 119.12         34.12                         4              green          
+jonesboro,ar                  90.65          35.83                         4              red            
+san mateo,ca                  117.58         33.38                         4              green          
+cape hattera,nc               75.55          35.27                         4              blue           
+wink,tx                       103.2          31.78                         4              green          
+sexton,or                     123.37         42.62                         4              blue           
+rockland,me                   69.12          44.07                         4              blue           
+craig-moffat,co               107.53         40.5                          4              green          
+ft stewart,ga                 81.57          31.88                         4              green          
+marthas vine,ma               70.62          41.4                          4              red            
+dyess afb,tx                  99.85          32.43                         4              green          
+la verne,ca                   117.78         34.1                          4              green          
+san clemente,ca               118.58         33.02                         4              green          
+junction,tx                   99.77          30.5                          4              green          
+mccook,ne                     100.58         40.22                         4              yellow         
+lk palourde,la                91.1           29.7                          4              yellow         
+topeka,ks                     95.62          39.07          124331         6              red            
+bradford,il                   89.6           41.16                         4              red            
+benton harbor,mi              86.43          42.13                         4              green          
+salem,or                      123.0          44.92          155469         6              blue           
+mammoth lks,ca                118.92         37.63                         4              green          
+schenectady,ny                73.93          42.85                         4              blue           
+san jose/rei,ca               121.82         37.33                         4              green          
+patrick afb,fl                80.6           28.23                         4              blue           
+elkins,wv                     79.85          38.88                         4              yellow         
+alamosa,co                    105.87         37.45                         4              green          
+san obi,ca                    120.65         35.23                         4              green          
+altus afb,ok                  99.27          34.67                         4              yellow         
+apalachicola,fl               85.03          29.73                         4              blue           
+grand rapids,mi               85.52          42.88          193710         6              green          
+westfield,ma                  72.72          42.17                         4              red            
+chadron,ne                    103.08         42.83                         4              yellow         
+missippi can,la               89.05          28.78                         4              yellow         
+midland,tx                    102.18         31.95          108668         6              green          
+redwood falls,mn              95.08          44.55                         4              red            
+tucumcari,nm                  103.6          35.18                         4              red            
+albuquerque,nm                106.6          35.05          529219         8              red            
+elkhart,in                    86.0           41.72                         4              blue           
+marseilles,il                 88.68          41.37                         4              red            
+massena,ny                    74.85          44.93                         4              blue           
+lancaster,pa                  76.3           40.13                         4              green          
+kerrville,tx                  99.08          29.98                         4              green          
+intl falls,mn                 93.38          48.57                         4              red            
+tyler/pounds,tx               95.4           32.37                         4              green          
+hot springs,ar                93.1           34.48                         4              red            
+lewiston,id                   117.02         46.38                         4              green          
+moab,ut                       109.75         38.77                         4              blue           
+galesburg,il                  90.43          40.93                         4              red            
+amarillo,tx                   101.7          35.23          189392         6              green          
+dickenson,nd                  102.8          46.78                         4              green          
+las vegas,nv                  115.17         36.08          567641         8              red            
+fort meade,md                 76.77          39.08                         4              blue           
+northrup str,nm               106.4          32.9                          4              red            
+birmingham,al                 86.75          33.57          230131         7              red            
+new london,ct                 72.08          41.3                          4              green          
+bremerton,wa                  122.77         47.48                         4              red            
+college stn,tx                96.37          30.58                         4              green          
+imperial,ca                   115.57         32.83                         4              green          
+mitchell,sd                   98.03          43.77                         4              blue           
+bangor,me                     68.82          44.8                          4              blue           
+atlanta,ga                    84.42          33.65          540922         8              green          
+chicago/o'hare,il             87.9           41.98                         4              red            
+oak harbor,wa                 122.68         48.25                         4              red            
+oshkosh,wi                    88.57          44.0                          4              yellow         
+lincoln muni,ne               96.75          40.85                         4              yellow         
+mcguire afb,nj                74.6           40.02                         4              yellow         
+rutland,vt                    73.95          43.53                         4              green          
+big piney,wy                  110.1          42.57                         4              red            
+alpena,mi                     83.57          45.07                         4              green          
+cameron heli,la               93.3           29.78                         4              yellow         
+nashua,nh                     71.52          42.78                         4              yellow         
+auburn,al                     85.44          32.67                         4              red            
+lidgerwood,nd                 97.15          46.1                          4              green          
+kingsville,tx                 97.82          27.5                          4              green          
+maxwell afb,al                86.37          32.38                         4              red            
+westhampton,ny                72.63          40.85                         4              blue           
+douglas,wy                    105.38         42.75                         4              red            
+lebanon,nh                    72.3           43.63                         4              yellow         
+idaho falls,id                112.07         43.52                         4              green          
+newburgh,ny                   74.1           41.5                          4              blue           
+saginaw,mi                    84.08          43.53                         4              green          
+bakalar af,in                 86.5           39.38                         4              blue           
+las cruces,nm                 106.77         32.3                          4              red            
+st cloud,mn                   94.07          45.55                         4              red            
+dugway prvgr,ut               112.93         40.2                          4              blue           
+kingman,az                    113.95         35.27                         4              yellow         
+burlington,wa                 122.33         48.5                          4              red            
+fairmont,mn                   94.42          43.65                         4              red            
+scott afb,il                  89.85          38.55                         4              red            
+moorcroft,wy                  104.81         44.35                         4              red            
+pittsfield,ma                 73.18          42.26                         4              red            
+flint/bishop,mi               83.75          42.97                         4              green          
+shreveport,la                 93.82          32.47          199244         6              yellow         
+imperial,ne                   101.63         40.53                         4              yellow         
+spartanburg,sc                81.96          34.92                         4              red            
+akron,co                      103.22         40.17                         4              green          
+fort worth,tx                 97.35          32.82          727577         8              green          
+new bern,nc                   77.05          35.08                         4              blue           
+macomb,il                     90.66          40.52                         4              red            
+sanderson,tx                  102.42         30.17                         4              green          
+brookings,sd                  96.8           44.3                          4              blue           
+fort dodge,ia                 94.18          42.55                         4              green          
+falcon fld,az                 111.73         33.47                         4              yellow         
+greensboro,nc                 79.95          36.08          255124         7              blue           
+charleston,sc                 80.03          32.9           115638         6              red            
+pt piedras,ca                 121.47         36.12                         4              green          
+travis afb,ca                 121.93         38.27                         4              green          
+mankato,mn                    93.92          44.22                         4              red            
+anderson,sc                   82.72          34.5                          4              red            
+salmon,id                     114.47         45.17                         4              green          
+miles city,mt                 105.87         46.43                         4              yellow         
+buckley,co                    104.75         39.72                         4              green          
+grand isle,la                 90.07          29.18                         4              yellow         
+brainerd-crw,mn               94.13          46.4                          4              red            
+rice lake,wi                  91.72          45.48                         4              yellow         
+killeen,tx                    97.68          31.08          119512         6              green          
+dayton,oh                     84.2           39.9           153843         6              red            
+nth kingston,ri               71.42          41.6                          4              blue           
+eureka,ca                     124.28         41.33                         4              green          
+tampa intl,fl                 82.53          27.97                         4              blue           
+trenton,nj                    74.82          40.28                         4              yellow         
+san miguel,ca                 120.4          34.03                         4              green          
+salina,ks                     97.65          38.8                          4              red            
+big apt,ca                    116.68         34.27                         4              green          
+andrews afb,md                76.87          38.82                         4              blue           
+astor nas,fl                  81.57          29.12                         4              blue           
+bismarck,nd                   100.75         46.77                         4              green          
+intercoastal,la               92.12          29.73                         4              yellow         
+daggett,ca                    116.78         34.87                         4              green          
+harlowton,mt                  109.83         46.43                         4              yellow         
+wolf point,mt                 105.58         48.1                          4              yellow         
+mineral wlls,tx               98.07          32.78                         4              green          
+nashville,tn                  86.68          36.12          605473         8              yellow         
+mcentire,sc                   80.8           33.92                         4              red            
+montague,ca                   122.53         41.73                         4              green          
+canton,oh                     81.43          40.92                         4              red            
+wolfeboro,nh                  71.38          44.0                          4              yellow         
+macdill afb,fl                82.52          27.85                         4              blue           
+aurora,or                     122.75         45.25                         4              blue           
+la junta,co                   103.52         38.05                         4              green          
+la grande,or                  118.0          45.28                         4              blue           
+nellis afb,nv                 115.03         36.23                         4              red            
+bicycle lk,ca                 116.62         35.28                         4              green          
+elkhart,ks                    101.88         37.0                          4              red            
+huron,sd                      98.22          44.38                         4              blue           
+quantico mca,va               77.3           38.5                          4              red            
+drummond,mt                   113.15         46.67                         4              yellow         
+tacoma,wa                     122.58         47.27          199638         6              red            
+santa fe,nm                   106.08         35.62                         4              red            
+manchester,nh                 71.43          42.93          109279         6              yellow         
+elizabeth,nc                  76.18          36.27                         4              blue           
+stephenville,tx               98.18          32.22                         4              green          
+beatrice,ne                   96.75          40.32                         4              yellow         
+jaffrey,nh                    72.0           42.8                          4              yellow         
+new york/jfk,ny               73.78          40.65                         4              blue           
+sault m,mi                    84.37          46.47                         4              green          
+livingston,mt                 110.43         45.7                          4              yellow         
+ainsworth,ne                  99.98          42.58                         4              yellow         
+new york/lga,ny               73.9           40.77                         4              blue           
+cortez,co                     108.63         37.3                          4              green          
+bloomington,in                86.62          39.13                         4              blue           
+madison,wi                    89.33          43.13          235419         7              yellow         
+gunnison,co                   106.92         38.55                         4              green          
+columbus,ne                   97.35          41.45                         4              yellow         
+willoughby,oh                 81.4           41.63                         4              red            
+portland,me                   70.32          43.65                         4              blue           
+stockton,ca                   121.25         37.9           287578         7              green          
+williamsport,pa               76.92          41.25                         4              green          
+evansville,in                 87.53          38.05          116584         6              blue           
+moriarity,nm                  106.05         34.98                         4              red            
+teterboro,nj                  74.05          40.85                         4              yellow         
+columbus,ga                   84.93          32.52          190414         6              green          
+wilmington,vt                 72.88          42.88                         4              green          
+bullfrog mar,ut               110.7          37.5                          4              blue           
+ft lauderdale,fl              80.15          26.07                         4              blue           
+merced,ca                     120.52         37.28                         4              green          
+harrisburg,pa                 77.42          40.37                         4              green          
+w lafayette,in                86.93          40.42                         4              blue           
+caribou mun,me                68.02          46.87                         4              blue           
+ft aaf,tx                     97.72          31.15                         4              green          
+carswell afb,tx               97.43          32.78                         4              green          
+hattiesburg,ms                89.33          31.47                         4              blue           
+milford,ut                    113.03         38.72                         4              blue           
+danville,il                   87.6           40.2                          4              red            
+watertown,ny                  76.02          44.0                          4              blue           
+guadalupe ps,tx               104.8          31.83                         4              green          
+ontario,or                    117.02         44.02                         4              blue           
+flagstaff,az                  111.67         35.13                         4              yellow         
+ft knox,ky                    85.97          37.9                          4              green          
+elko,nv                       115.78         40.83                         4              red            
+brunswick,me                  69.93          43.88                         4              blue           
+casper,wy                     106.47         42.92                         4              red            
+garden city,ks                100.72         37.93                         4              red            
+fort carson,co                104.77         38.68                         4              green          
+custer,sd                     103.6          43.77                         4              blue           
+london,ky                     84.07          37.08                         4              green          
+mcallen,tx                    98.23          26.18          132225         6              green          
+alameda nas,ca                122.32         37.78                         4              green          
+texarkana,ar                  94.0           33.45                         4              red            
+gooding,id                    115.17         43.0                          4              green          
+indianapolis,in               86.27          39.73          807584         9              blue           
+kearney,ne                    99.0           40.73                         4              yellow         
+fort eustis,va                76.62          37.13                         4              red            
+modesto,ca                    120.95         37.63          202743         7              green          
+glasgow,mt                    106.62         48.22                         4              yellow         
+dillon,mt                     112.55         45.25                         4              yellow         
+palmdale,ca                   118.13         35.05          143985         6              green          
+george afb,ca                 117.38         34.58                         4              green          
+barnegat ls,nj                74.28          40.28                         4              yellow         
+terre haute,in                87.3           39.45                         4              blue           
+palo alto,ca                  122.12         37.47                         4              green          
+escanaba,mi                   87.08          45.73                         4              green          
+manteo arpt,nc                75.68          35.92                         4              blue           
+buffalo,ny                    78.73          42.93          270240         7              blue           
+youngstown,oh                 80.67          41.27                         4              red            
+whidbey is,wa                 122.65         48.35                         4              red            
+worland,wy                    107.97         43.97                         4              red            
+wheeling,wv                   80.65          40.18                         4              yellow         
+seattle/boeing,wa             122.3          47.53                         4              red            
+detroit laks,mn               95.88          46.82                         4              red            
+oxford,ms                     89.54          34.39                         4              blue           
+boothville,la                 89.67          29.55                         4              yellow         
+new bedford,ma                70.97          41.68                         4              red            
+crescent cty,ca               124.23         41.78                         4              green          
+portland,or                   122.6          45.6           566143         8              blue           
+memphis intl,tn               90.0           35.05                         4              yellow         
+clinton,ok                    99.2           35.35                         4              yellow         
+alturas,ca                    120.53         41.48                         4              green          
+wausau,wi                     89.62          44.92                         4              yellow         
+eau claire,wi                 91.48          44.87                         4              yellow         
+fort devens,ma                71.6           42.57                         4              red            
+dare gr,nc                    76.5           36.13                         4              blue           
+los alamos,nm                 106.28         35.88                         4              red            
+montgomery,al                 86.4           32.3           202124         7              red            
+offutt afb,ne                 95.92          41.12                         4              yellow         
+albany,ny                     73.8           42.75                         4              blue           
+glenview nas,il               87.82          42.08                         4              red            
+des moines,ia                 93.65          41.53          200538         7              green          
+pasco,wa                      119.12         46.27                         4              red            
+sheridan,wy                   106.97         44.77                         4              red            
+salisbury,md                  75.5           38.33                         4              blue           
+salida,co                     106.05         38.53                         4              green          
+mcclellan,ca                  121.4          38.67                         4              green          
+bradford,pa                   78.63          41.8                          4              green          
+tuscaloosa,al                 87.62          33.23                         4              red            
+boise,id                      116.22         43.57          205707         7              green          
+hutchinson,ks                 97.87          38.07                         4              red            
+clarksburg,wv                 80.23          39.28                         4              yellow         
+tustin mcas,ca                117.83         33.7                          4              green          
+ft collins,co                 105.08         40.58                         4              green          
+fayetteville,ar               94.17          36.0                          4              red            
+sioux falls,sd                96.73          43.58          158008         6              blue           
+battle mtn,nv                 116.87         40.62                         4              red            
+pueblo,co                     104.52         38.28          104877         6              green          
+bozeman,mt                    111.15         45.78                         4              yellow         
+tupelo,ms                     88.77          34.27                         4              blue           
+ann arbor,mi                  83.75          42.22          112920         6              green          
+miami/opa,fl                  80.28          25.92                         4              blue           
+naples,fl                     81.8           26.13                         4              blue           
+natchez,ms                    91.25          31.62                         4              blue           
+north is,ca                   117.2          32.7                          4              green          
+broken bow,ne                 99.65          41.43                         4              yellow         
+yankton,sd                    97.38          42.92                         4              blue           
+wendover,ut                   114.05         41.22                         4              blue           
+everet/paine,wa               122.28         47.92                         4              red            
+w yellowston,mt               111.12         44.68                         4              yellow         
+chippewa,mi                   84.47          46.25                         4              green          
+jackson,tn                    88.92          35.6                          4              yellow         
+monett,mo                     94.35          37.33                         4              blue           
+champaign/urbana,il           88.28          40.03                         4              red            
+steamboat sp,co               106.82         40.48                         4              green          
+lander,wy                     108.73         42.82                         4              red            
+beckley,wv                    81.12          37.78                         4              yellow         
+pontiac,mi                    83.42          42.67                         4              green          
+rumford,me                    70.88          44.88                         4              blue           
+winslow,az                    110.73         35.02                         4              yellow         
+blue canyon,ca                120.7          39.28                         4              green          
+hawthorne,nv                  118.63         38.55                         4              red            
+big sky,tx                    101.48         32.39                         4              green          
+la grange,ga                  85.07          33.01                         4              green          
+muncie,in                     85.38          40.23                         4              blue           
+lancaster,ca                  118.22         34.73          145776         6              green          
+philadelphia,pa               75.25          39.88          1547297        10             green          
+aberdeen,sd                   98.43          45.45                         4              blue           
+washington/dulles,dc          77.46          38.95                         4              green          
+walnut ridge,ar               90.93          36.13                         4              red            
+fairchild,wa                  117.65         47.62                         4              red            
+burley,id                     113.77         42.53                         4              green          
+elk city,id                   115.43         45.82                         4              green          
+mccall,id                     116.1          44.88                         4              green          
+pensacola,fl                  87.2           30.47                         4              blue           
+lakeland,fl                   81.95          28.03                         4              blue           
+socorro,nm                    106.9          34.07                         4              red            
+st johnsbury,vt               72.02          44.42                         4              green          
+olathe,ks                     94.9           38.85          121962         6              red            
+wildhorse,nv                  116.25         41.33                         4              red            
+oceana nas,va                 76.03          36.82                         4              red            
+harrison,ar                   93.15          36.27                         4              red            
+tyndall afb,fl                85.58          30.07                         4              blue           
+norfolk,ne                    97.43          41.98                         4              yellow         
+memphis nas,tn                89.87          35.35                         4              yellow         
+morgan city,la                91.2           29.7                          4              yellow         
+nantucket,ma                  70.07          41.25                         4              red            
+great falls,mt                111.37         47.48                         4              yellow         
+salt ct,ut                    111.97         40.78                         4              blue           
+fort benning,ga               85.0           32.33                         4              green          
+yucca flat,nv                 116.08         37.58                         4              red            
+kinston,nc                    77.63          35.32                         4              blue           
+dothan,al                     85.45          31.32                         4              red            
+shelter cove,ca               124.07         40.03                         4              green          
+lone rock,wi                  90.18          43.2                          4              yellow         
+mather afb,ca                 121.3          38.57                         4              green          
+duke fld,fl                   86.52          30.65                         4              blue           
+augusta/bush,ga               81.97          33.37                         4              green          
+key nas,fl                    81.68          24.57                         4              blue           
+vandenberg,ca                 120.95         35.2                          4              green          
+alliance,ne                   102.8          42.05                         4              yellow         
+savannah mun,ga               81.2           32.13                         4              green          
+sidney muni,ne                102.98         41.1                          4              yellow         
+butte,mt                      112.5          45.95                         4              yellow         
+lafayette,la                  92.0           30.2           114915         6              yellow         
+england afb,la                92.55          31.33                         4              yellow         
+scottsdale,az                 111.92         33.62          237844         7              yellow         
+ely,mn                        91.82          47.9                          4              red            
+mcconnell af,ks               97.27          37.62                         4              red            
+austin,tx                     97.7           30.3           786386         8              green          
+beaufort mca,sc               80.72          32.48                         4              red            
+grand island,ne               98.32          40.97                         4              yellow         
+cut bank,mt                   112.37         48.6                          4              yellow         
+los alamitos,ca               118.05         33.78                         4              green          
+bakersfield,ca                119.05         35.43          324463         7              green          
+langley afb,va                76.37          37.08                         4              red            
+atlanta/dklb,ga               84.3           33.88                         4              green          
+burwell,ne                    99.15          41.78                         4              yellow         
+ord/sharp,ne                  98.95          41.62                         4              yellow         
+mccomb,ms                     90.47          31.18                         4              blue           
+miami/tamiami,fl              80.43          25.65                         4              blue           
+corona,nm                     105.68         34.1                          4              red            
+childress,tx                  100.28         34.43                         4              green          
+malad city,id                 112.32         42.17                         4              green          
+melbourne,fl                  80.63          28.1                          4              blue           
+clayton arpt,nm               103.15         36.45                         4              red            
+roanoke muni,va               79.97          37.32                         4              red            
+hillsboro,or                  122.95         45.53                         4              blue           
+coopersville,mi               85.95          43.07                         4              green          
+bluefield,wv                  81.22          37.3                          4              yellow         
+fort rucker,al                85.72          31.28                         4              red            
+spokane,wa                    117.33         47.67          203268         7              red            
+douglas,az                    109.6          31.45                         4              yellow         
+ft smith,ar                   94.37          35.33                         4              red            
+peoria,il                     89.68          40.67          115520         6              red            
+ocean city,md                 75.13          38.55                         4              blue           
+waterloo mun,ia               92.4           42.55                         4              green          
+saint george,ut               113.6          37.08                         4              blue           
+lovelock,nv                   118.92         40.1                          4              red            
+mattoon,il                    88.28          39.48                         4              red            
+houston,tx                    95.35          29.97          2257926        11             green          
+manitowac,wi                  87.67          44.13                         4              yellow         
+traverse cty,mi               85.58          44.73                         4              green          
+el dorado,ar                  92.8           33.22                         4              red            
+pt arguello,ca                121.12         34.95                         4              green          
+kirksville,mo                 92.55          40.1                          4              blue           
+cotulla,tx                    99.22          28.45                         4              green          
+saranac lk,ny                 74.2           44.38                         4              blue           
+florence,sc                   79.72          34.18                         4              red            
+warroad,mn                    95.35          48.93                         4              red            
+pullman,wa                    117.12         46.75                         4              red            
+phillips,md                   76.17          39.47                         4              blue           
+rome/russell,ga               85.17          34.35                         4              green          
+alexandria,mn                 95.38          45.87                         4              red            
+san angelo,tx                 100.5          31.37                         4              green          
+gallup/clark,nm               108.78         35.52                         4              red            
+cozad,ne                      100.0          40.87                         4              yellow         
+hot springs,va                79.82          37.95                         4              red            
+vichy/rolla,mo                91.77          38.13                         4              blue           
+concord,nh                    71.5           43.2                          4              yellow         
+lamar,co                      102.6          38.12                         4              green          
+san isl,ca                    119.45         33.25                         4              green          
+roswell,nm                    104.53         33.3                          4              red            
+dallas nas,tx                 96.97          32.73                         4              green          
+rockport,tx                   97.03          28.08                         4              green          
+fort ord,ca                   121.77         36.68                         4              green          
+greeley-wld,co                104.63         40.43                         4              green          
+kelly afb,tx                  98.58          29.38                         4              green          
+hibbing,mn                    92.85          47.38                         4              red            
+zanesville,oh                 81.9           39.95                         4              red            
+windsor loc,ct                72.68          41.93                         4              green          
+decatur,il                    88.87          39.83                         4              red            
+houma,la                      90.65          29.57                         4              yellow         
+saint peters,fl               82.68          27.92                         4              blue           
+dubuque,ia                    90.7           42.4                          4              green          
+chino,ca                      117.63         33.97                         4              green          
+phoenix,az                    112.02         33.43          1593659        10             yellow         
+los angeles,ca                118.4          33.93          3831868        13             green          
+otis angb,ma                  70.52          41.65                         4              red            
+volk fld,wi                   90.27          43.93                         4              yellow         
+bistate park,il               90.15          38.57                         4              red            
+fort polk,la                  93.2           31.05                         4              yellow         
+jackson,mi                    84.47          42.27                         4              green          
+wichita,ks                    97.43          37.65          372186         7              red            
+south bend,in                 86.32          41.7           104215         6              blue           
+cheyenne,wy                   104.82         41.15                         4              red            
+burlington,ia                 91.12          40.78                         4              green          
+houlton,me                    67.78          46.13                         4              blue           
+shaw afb,sc                   80.47          33.97                         4              red            
+laughlin afb,tx               100.78         29.37                         4              green          
+valdosta,ga                   83.28          30.78                         4              green          
+bedford,ma                    71.28          42.47                         4              red            
+laramie,wy                    105.68         41.32                         4              red            
+jamestown,ny                  79.25          42.15                         4              blue           
+owensboro,ky                  87.17          37.75                         4              green          
+plattsburgh,ny                73.47          44.65                         4              blue           
+centralia,il                  89.09          38.51                         4              red            
+dallas/love,tx                96.85          32.85                         4              green          
+glendive,mt                   104.8          47.13                         4              yellow         
+avon g,fl                     81.55          28.08                         4              blue           
+cross city,fl                 83.1           29.62                         4              blue           
+findlay,oh                    83.67          41.02                         4              red            
+sarasota,fl                   82.55          27.4                          4              blue           
+grand rapids,mn               93.52          47.22                         4              red            
+hondo,tx                      99.17          29.35                         4              green          
+burbank,ca                    118.37         34.2           103121         6              green          
+burns arpt,or                 118.95         43.6                          4              blue           
+cherry point,nc               76.88          34.9                          4              blue           
+white sulph,wv                80.2           37.46                         4              yellow         
+norman,ok                     97.47          35.23          109062         6              yellow         
+state colleg,pa               77.83          40.85                         4              green          
+tonopah,nv                    117.08         38.07                         4              red            
+missoula,mt                   114.08         46.92                         4              yellow         
+pope afb,nc                   79.02          35.17                         4              blue           
+hot springs,nc                82.82          35.9                          4              blue           
+lufkin,tx                     94.75          31.23                         4              green          
+rawlins,wy                    107.2          41.8                          4              red            
+dyersburg,tn                  89.4           36.02                         4              yellow         
+pocatello,id                  112.6          42.92                         4              green          
+enid,ok                       97.8           36.38                         4              yellow         
+hayward,ca                    122.12         37.65          144291         6              green          
+st louis,mo                   90.37          38.75          356587         7              blue           
+burlington,vt                 73.15          44.47                         4              green          
+ithaca,ny                     76.47          42.48                         4              blue           
+palacios,tx                   96.25          28.72                         4              green          
+lawton,ok                     98.42          34.57                         4              yellow         
+chanute,ks                    95.48          37.67                         4              red            
+redig,sd                      103.32         45.16                         4              blue           
+ironwood,mi                   90.13          46.53                         4              green          
+islip,ny                      73.1           40.78                         4              blue           
+cody,wy                       109.02         44.52                         4              red            
+green bay,wi                  88.13          44.48          101412         6              yellow         
+payson,az                     111.33         34.23                         4              yellow         
+port angeles,wa               123.67         48.22                         4              red            
+truckee-tahoe,ca              120.13         39.32                         4              green          
+barksdale,la                  93.67          32.5                          4              yellow         
+las vegas,nm                  105.15         35.65                         4              red            
+philip,sd                     101.6          44.05                         4              blue           
+moffet nas,ca                 122.05         37.42                         4              green          
+susanville,ca                 120.95         40.63                         4              green          
+new haven,ct                  72.9           41.27          123330         6              green          
+fort lauderd,fl               80.13          26.13                         4              blue           
+pease afb,nh                  70.82          43.08                         4              yellow         
+fargo,nd                      96.8           46.9                          4              green          
+roseburg,or                   123.37         43.23                         4              blue           
+winter park,co                105.87         40.0                          4              green          
+long beach,ca                 118.15         33.82          462604         8              green          
+lake view,or                  120.35         42.18                         4              blue           
+muir,pa                       76.57          40.43                         4              green          
+ellsworth af,sd               103.1          44.15                         4              blue           
+north omaha,ne                96.02          41.37                         4              yellow         
+mullan,id                     115.8          47.47                         4              green          
+englewood,co                  104.83         39.57                         4              green          
+montpelier,vt                 72.57          44.2                          4              green          
+reno,nv                       119.78         39.5           219636         7              red            
+lewiston,mt                   109.45         47.05                         4              yellow         
+mosinee,wi                    89.67          44.78                         4              yellow         
+laredo intl,tx                99.47          27.53                         4              green          
+concord,ca                    122.05         37.98          126752         6              green          
+rickenbacker,oh               82.93          39.82                         4              red            
+whiting fld,fl                87.02          30.72                         4              blue           
+milwaukee,wi                  88.05          43.12          605013         8              yellow         
+gage,ok                       99.77          36.3                          4              yellow         
+white plains,ny               73.72          41.07                         4              blue           
+asheville,nc                  82.55          35.43                         4              blue           
+beaumont,ca                   116.95         33.93                         4              green          
+safford awrs,az               109.68         32.82                         4              yellow         
+jamestown,nd                  98.68          46.92                         4              green          
+col. jabar,ks                 97.22          37.75                         4              red            
+loring afb,me                 67.88          46.95                         4              blue           
+aspen,co                      106.87         39.22                         4              green          
+ogden,ut                      112.02         41.18                         4              blue           
+blythe,ca                     114.72         33.62                         4              green          
+walla walla,wa                118.28         46.1                          4              red            
